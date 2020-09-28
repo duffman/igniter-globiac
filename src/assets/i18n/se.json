@@ -1,0 +1,21 @@
+{
+	"disqualifier": "ILA7191A12",
+	"langName": {
+		"id": 340,
+		"native": "Svenska",
+		"int": "Swedish"
+	},
+	"app": {
+		"balle": {
+			"b64Enc": true,
+			"data": "PHA+CkxvcmVtIElwc3VtIGlzIHNpbXBseSBkdW1teSB0ZXh0IG9mIHRoZSBwcmludGluZyBhbmQgdHlwZXNldHRpbmcgaW5kdXN0cnkuIExvcmVtIElwc3VtIGhhcyBiZWVuIHRoZSBpbmR1c3RyeSdzIHN0YW5kYXJkIGR1bW15IHRleHQgZXZlciBzaW5jZSB0aGUgMTUwMHMsIHdoZW4gYW4gdW5rbm93biBwcmludGVyIHRvb2sgYSBnYWxsZXkgb2YgdHlwZSBhbmQgc2NyYW1ibGVkIGl0IHRvIG1ha2UgYSB0eXBlIHNwZWNpbWVuIGJvb2suIEl0IGhhcyBzdXJ2aXZlZCBub3Qgb25seSBmaXZlIGNlbnR1cmllcywgYnV0IGFsc28gdGhlIGxlYXAgaW50byBlbGVjdHJvbmljIHR5cGVzZXR0aW5nLCByZW1haW5pbmcgZXNzZW50aWFsbHkgdW5jaGFuZ2VkLiBJdCB3YXMgcG9wdWxhcmlzZWQgaW4gdGhlIDE5NjBzIHdpdGggdGhlIHJlbGVhc2Ugb2YgTGV0cmFzZXQgc2hlZXRzIGNvbnRhaW5pbmcgTG9yZW0gSXBzdW0gcGFzc2FnZXMsIGFuZCBtb3JlIHJlY2VudGx5IHdpdGggZGVza3RvcCBwdWJsaXNoaW5nIHNvZnR3YXJlIGxpa2UgQWxkdXMgUGFnZU1ha2VyIGluY2x1ZGluZyB2ZXJzaW9ucyBvZiBMb3JlbSBJcHN1bS4KPC9wPgo8cD4KTG9yZW0gSXBzdW0gw6RyIGVuIHV0ZnlsbG5hZHN0ZXh0IGZyw6VuIHRyeWNrLSBvY2ggZsO2cmxhZ3NpbmR1c3RyaW4uIExvcmVtIGlwc3VtIGhhciB2YXJpdCBzdGFuZGFyZCDDpG5kYSBzZWRhbiAxNTAwLXRhbGV0LCBuw6RyIGVuIG9rw6RuZCBib2tzw6R0dGFyZSB0b2cgYXR0IGFudGFsIGJva3N0w6R2ZXIgb2NoIGJsYW5kYWRlIGRlbSBmw7ZyIGF0dCBnw7ZyYSBldHQgcHJvdmV4ZW1wbGFyIGF2IGVuIGJvay4gTG9yZW0gaXBzdW0gaGFyIGludGUgYmFyYSDDtnZlcmxldnQgZmVtIMOlcmh1bmRyYWRlbiwgdXRhbiDDpHZlbiDDtnZlcmfDpW5nZW4gdGlsbCBlbGVrdHJvbmlzayB0eXBvZ3JhZmkgdXRhbiBzdMO2cnJlIGbDtnLDpG5kcmluZ2FyLiBEZXQgYmxldiBhbGxtw6RudCBrw6RudCBww6UgMTk2MC10YWxldCBpIHNhbWJhbmQgbWVkIGxhbnNlcmluZ2VuIGF2IExldHJhc2V0LWFyayBtZWQgYXZzbml0dCBhdiBMb3JlbSBJcHN1bSwgb2NoIHNlbmFyZSBtZWQgbWp1a3Zhcm9yIHNvbSBBbGR1cyBQYWdlTWFrZXIuCgo8L3A+"
+		},
+		"name": "Stjärt-startaren",
+		"desc": "Detta är en hemsk liten kuk-fabrik",
+		"tabs": [
+			{
+				"name": "Bullrunka"
+			}
+		]
+	}
+}

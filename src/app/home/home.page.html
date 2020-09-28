@@ -1,0 +1,37 @@
+<ion-header [translucent]="true">
+	<ion-toolbar>
+		<ion-title>
+			Blank
+		</ion-title>
+	</ion-toolbar>
+</ion-header>
+
+<ion-content>
+
+	<ion-button (click)="setLang('ru')">Set Russian</ion-button>
+
+	<ion-list>
+		<ion-item (click)="dynamicData('terms')">
+			<ion-label>
+				Dynamic Content
+			</ion-label>
+		</ion-item>
+	</ion-list>
+
+
+
+	<div id="container">
+		<b>{{ 'app.name' | translate }}</b>
+
+		<p>
+			{{ 'app.desc' | translate }}
+		</p>
+
+
+
+
+
+
+
+	</div>
+</ion-content>
